@@ -5,6 +5,7 @@ import Home from './pages/Home/Home';
 import Componente from './pages/Componente/Componente';
 
 export default function Routes(){
+  
   return (
       <BrowserRouter>
       <Switch>
